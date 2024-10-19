@@ -1,1 +1,3 @@
-rootProject.name = 'strater'
+include 'starter'
+include 'session'
+include 'test-service'
