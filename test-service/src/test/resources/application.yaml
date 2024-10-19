@@ -1,0 +1,6 @@
+black-list:
+  enabled: true
+  logins:
+    - blackListLogin
+
+
